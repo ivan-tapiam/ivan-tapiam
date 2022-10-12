@@ -1,4 +1,4 @@
-[![MasterHead](https://media.tenor.com/DHbni1vGLO4AAAAd/yone-league-of-legends.gif)
+![MasterHead](https://preview.redd.it/in73r6sbixz31.png?width=4096&format=png&auto=webp&s=810fa4aef8f17b2ccf3ca4c18601eb731904d37e)
 
 <h1 align="center">Hi 👋, I'm Iván Tapia</h1>
 <h3 align="center">A passionate Full-Stack developer Student 💻, Master of Business Administration (MBA)📚, Physical Therapist🫁🦴 and Skydiver🪂</h3>

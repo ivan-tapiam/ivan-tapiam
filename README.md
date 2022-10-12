@@ -1,7 +1,8 @@
-img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...")
+[![MasterHead](https://developers.giphy.com/branch/master/static/why_4-dbf60f160acb0c6f22c6260bd3a8c6b5.gif)
 
 <h1 align="center">Hi 👋, I'm Iván Tapia</h1>
 <h3 align="center">A passionate Full-Stack developer Student 💻, Master of Business Administration (MBA)📚, Physical Therapist🫁🦴 and Skydiver🪂</h3>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ivan-tapiam&label=Profile%20views&color=0e75b6&style=flat" alt="ivan-tapiam" /> </p>
 
